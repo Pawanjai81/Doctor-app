@@ -1,4 +1,4 @@
-# <h1 align="center"> Hotel Management Application </h1>
+# <h1 align="center"> Doctor Appointment booking Application </h1>
 ___ 
 <p align="center">
     <img alt="Java" src="https://img.shields.io/badge/Java->=8-darkblue.svg" />
